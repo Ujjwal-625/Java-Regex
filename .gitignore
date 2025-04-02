@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 .idea
 Java-Regex.iml
+out
 !**/src/test/**/out/
 
 ### Eclipse ###
